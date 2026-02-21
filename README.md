@@ -22,7 +22,7 @@ The system processes a YouTube video, extracts transcripts, analyzes content usi
 
 ## 🏗 Architecture
 
-![Compliance QA Architecture](screenshot/architecture.png)
+![Compliance QA Architecture](screenshot/Project2_Langgraph_Architecture.png)
 
 
 ## 🔬 Methodology Operations : 
