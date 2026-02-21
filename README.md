@@ -1,5 +1,5 @@
-# 🎥 Compliance QA Pipeline  
-AI-Powered Video Compliance Auditing System using Azure & LLMs
+# 🎥 Brand Video Compliance Pipeline  
+AI-Powered Compliance Auditing System using Azure & LLMs
 
 ---
 
