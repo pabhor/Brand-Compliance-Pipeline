@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Temp files
+temp_audit_video.mp4
+
+# VS Code
+.vscode/
